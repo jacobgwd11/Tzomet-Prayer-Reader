@@ -1,39 +1,22 @@
 
 
 base = """
-   TTTTTTTTTTTTTTTTTTTTTTT                                                       
-   T:::::::::::::::::::::T                                                       
-   T:::::::::::::::::::::T                                                       
-   T:::::TT:::::::TT:::::T                                                       
-   TTTTTT  T:::::T  TTTTTTuuuuuu    uuuuuu rrrrr   rrrrrrrrr   nnnn  nnnnnnnn    
-           T:::::T        u::::u    u::::u r::::rrr:::::::::r  n:::nn::::::::nn  
-           T:::::T        u::::u    u::::u r:::::::::::::::::r n::::::::::::::nn 
-           T:::::T        u::::u    u::::u rr::::::rrrrr::::::rnn:::::::::::::::n
-           T:::::T        u::::u    u::::u  r:::::r     r:::::r  n:::::nnnn:::::n
-           T:::::T        u::::u    u::::u  r:::::r     rrrrrrr  n::::n    n::::n
-           T:::::T        u::::u    u::::u  r:::::r              n::::n    n::::n
-           T:::::T        u:::::uuuu:::::u  r:::::r              n::::n    n::::n
-         TT:::::::TT      u:::::::::::::::uur:::::r              n::::n    n::::n
-         T:::::::::T       u:::::::::::::::ur:::::r              n::::n    n::::n
-         T:::::::::T        uu::::::::uu:::ur:::::r              n::::n    n::::n
-         TTTTTTTTTTT          uuuuuuuu  uuuurrrrrrr              nnnnnn    nnnnnn
-
-            tttt                           
-         ttt:::t                           
-         t:::::t                           
-         t:::::t                           
-   ttttttt:::::ttttttt       ooooooooooo   
-   t:::::::::::::::::t     oo:::::::::::oo 
-   t:::::::::::::::::t    o:::::::::::::::o
-   tttttt:::::::tttttt    o:::::ooooo:::::o
-         t:::::t          o::::o     o::::o
-         t:::::t          o::::o     o::::o
-         t:::::t          o::::o     o::::o
-         t:::::t    tttttto::::o     o::::o
-         t::::::tttt:::::to:::::ooooo:::::o
-         tt::::::::::::::to:::::::::::::::o
-           tt:::::::::::tt oo:::::::::::oo 
-             ttttttttttt     ooooooooooo    
+   TTTTTTTTTTTTTTTTTTTTTTT                                                                      tttt                           
+   T:::::::::::::::::::::T                                                                   ttt:::t                           
+   T:::::::::::::::::::::T                                                                   t:::::t                           
+   T:::::TT:::::::TT:::::T                                                                   t:::::t                           
+   TTTTTT  T:::::T  TTTTTTuuuuuu    uuuuuu rrrrr   rrrrrrrrr   nnnn  nnnnnnnn          ttttttt:::::ttttttt       ooooooooooo   
+           T:::::T        u::::u    u::::u r::::rrr:::::::::r  n:::nn::::::::nn        t:::::::::::::::::t     oo:::::::::::oo 
+           T:::::T        u::::u    u::::u r:::::::::::::::::r n::::::::::::::nn       t:::::::::::::::::t    o:::::::::::::::o
+           T:::::T        u::::u    u::::u rr::::::rrrrr::::::rnn:::::::::::::::n      tttttt:::::::tttttt    o:::::ooooo:::::o
+           T:::::T        u::::u    u::::u  r:::::r     r:::::r  n:::::nnnn:::::n            t:::::t          o::::o     o::::o
+           T:::::T        u::::u    u::::u  r:::::r     rrrrrrr  n::::n    n::::n            t:::::t          o::::o     o::::o
+           T:::::T        u::::u    u::::u  r:::::r              n::::n    n::::n            t:::::t          o::::o     o::::o
+           T:::::T        u:::::uuuu:::::u  r:::::r              n::::n    n::::n            t:::::t    tttttto::::o     o::::o
+         TT:::::::TT      u:::::::::::::::uur:::::r              n::::n    n::::n            t::::::tttt:::::to:::::ooooo:::::o
+         T:::::::::T       u:::::::::::::::ur:::::r              n::::n    n::::n            tt::::::::::::::to:::::::::::::::o
+         T:::::::::T        uu::::::::uu:::ur:::::r              n::::n    n::::n              tt:::::::::::tt oo:::::::::::oo 
+         TTTTTTTTTTT          uuuuuuuu  uuuurrrrrrr              nnnnnn    nnnnnn                ttttttttttt     ooooooooooo    
    
    
    
