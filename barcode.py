@@ -1,4 +1,5 @@
 #!/usr/bin/python
+"""
 import sys
 import requests
 import json
@@ -87,3 +88,4 @@ if __name__ == '__main__':
             UPC_lookup(api_key,barcode_reader())
     except KeyboardInterrupt:
         pass
+"""
